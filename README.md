@@ -2,7 +2,11 @@
 
 > Evidence-first CV and cover-letter tailoring workflow.
 
-This private workspace provides a disciplined way to produce role-specific application materials without inventing achievements, stuffing keywords, or relying on generic AI prose.
+This public guide provides a disciplined way to produce role-specific application materials without inventing achievements, stuffing keywords, or relying on generic AI prose. It is a workflow and static landing page, not an automated CV generator.
+
+![Career Application Toolkit landing page](docs/preview.png)
+
+*Authentic preview of the included `index.html` page.*
 
 ## Core principles
 
@@ -27,4 +31,8 @@ The initial release establishes the evidence-first workflow, practical quality g
 
 ## Status
 
-Private baseline for iterative, job-specific application tailoring.
+An initial, reusable workflow. Open `index.html` in a browser to view its landing page; no installation or account is required. The guide does not include anyone's CV, application history, or personal data.
+
+## License
+
+The original source and documentation in this repository are available under the [MIT License](LICENSE). Create and share application materials only with the candidate's permission, and verify every claim before submitting.
