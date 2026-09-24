@@ -35,4 +35,4 @@ An initial, reusable workflow. Open `index.html` in a browser to view its landin
 
 ## License
 
-The original source and documentation in this repository are available under the [MIT License](LICENSE). Create and share application materials only with the candidate's permission, and verify every claim before submitting.
+The original source and documentation on the current `main` branch are available under the [MIT License](LICENSE). The historical `v0.5.0` tag predates that license; its source archive is not retroactively MIT-licensed. Create and share application materials only with the candidate's permission, and verify every claim before submitting.
