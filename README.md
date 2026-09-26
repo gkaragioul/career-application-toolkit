@@ -25,6 +25,12 @@ This public guide provides a disciplined way to produce role-specific applicatio
 5. Review the language for specificity, tone, consistency, and unsupported superlatives.
 6. Export and inspect the final PDF before submitting.
 
+## How to use
+
+1. Clone or download this repository, for example `git clone https://github.com/gkaragioul/career-application-toolkit.git`.
+2. Open `index.html` in any browser for the one-page overview. It is a single static file with no scripts, dependencies, or build step.
+3. For each application, follow the [workflow](#workflow) above with your own verified evidence, and check the finished CV and cover letter against the [core principles](#core-principles) before you submit.
+
 ## v0.5.0
 
 The initial release establishes the evidence-first workflow, practical quality guardrails, and a lightweight project landing page. It deliberately contains no personal profile data, application documents, credentials, or generated files.
@@ -32,6 +38,10 @@ The initial release establishes the evidence-first workflow, practical quality g
 ## Status
 
 An initial, reusable workflow. Open `index.html` in a browser to view its landing page; no installation or account is required. The guide does not include anyone's CV, application history, or personal data.
+
+## Disclaimer
+
+This guide is provided as is, without warranty of any kind, under the [MIT License](LICENSE). Use it at your own risk. It does not write, send, or submit anything for you and cannot guarantee an interview or an offer; you are responsible for the accuracy of every CV, cover letter, and claim you produce with it.
 
 ## License
 
